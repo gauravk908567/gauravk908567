@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
+
+emojipedia fileformat.info
+
 My name is Gaurav Kumar. I am a Unity Developer. I am from india, living in Amsterdam and working at Miro.
 
 ## &#x270d; Contogging
