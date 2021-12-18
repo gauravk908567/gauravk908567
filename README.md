@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  fileformat.info
 
-My name is Gaurav Kumar. I am a Unity Developer. I am from india
+My name is Gaurav Kumar. I am from India. I
 
 ## &#x270d; Contogging
 
