@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 # Hello folks!👋
 
 
-emojipedia fileformat.info
+ fileformat.info
 
-My name is Gaurav Kumar. I am a Unity Developer. I am from india, living in Amsterdam and working at Miro.
+My name is Gaurav Kumar. I am a Unity Developer. I am from india
 
 ## &#x270d; Contogging
 
