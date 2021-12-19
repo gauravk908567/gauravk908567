@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **gauravk908567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ![Header](https://github.com/gauravk908567/gauravk908567/blob/main/GitHub_Banner.jpg)
 
 # Hello folks!👋
-
+I am Unity Developer with passion and knowledge in C# and C++ along with programming patterns
 
  fileformat.info
 
-My name is Gaurav Kumar. I am from India. I
+
 
 ## &#x270d; Contogging
 
