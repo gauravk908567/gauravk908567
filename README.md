@@ -37,29 +37,11 @@ Apart from coding , I also make technical videos. You can check the out on Linke
 </p>
 
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashimaAhuja&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AashimaAhuja&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
-</a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="mailto:gauravk908567@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 
 
