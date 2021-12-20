@@ -17,29 +17,23 @@ Here are some ideas to get you started:
 ![Header](https://github.com/gauravk908567/gauravk908567/blob/main/GitHub_Banner.jpg)
 
 # Hello folks!👋
-I am Unity Developer with passion and knowledge in C# and C++ along with programming patterns
-
- fileformat.info
-
-
-
-## &#x270d; Contogging
-
-Apart from coding , I also make technical videos. You can check the out on LinkedIn
+I am Game Developer with experience of working in Unity.I have knowledge of Unity C# and C++ along with tools like Adobe photoshop and Illustrator. I also have basic understanding of 3d Maya, Blender and Unreal Engine.
 
 ## 🔧 Langueages & Tools
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="80" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' alt="C++" width="60" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png' alt="C#" width='50' height='50'>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="PhotoShop" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="Unreal" width="40" height="40"/>
 </p>
 
+![Visitiors](https://komarev.com/ghpvc/?username=gauravk908567)
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="gauravk908567@gmail.com">
+<a href="mailto:gauravk908567@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/gaurav-kumar-20492818b/">
@@ -48,8 +42,3 @@ Apart from coding , I also make technical videos. You can check the out on Linke
   <a href="https://www.instagram.com/ign_superman_/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-
-
-[1.1]: https://i.imgur.com/Vahbdkj.png (linkedin icon)
-
-
