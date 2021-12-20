@@ -39,7 +39,7 @@ Apart from coding , I also make technical videos. You can check the out on Linke
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="mailto:gauravk908567@gmail.com">
+<a href="gauravk908567@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/gaurav-kumar-20492818b/">
