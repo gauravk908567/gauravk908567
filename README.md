@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Header](https://github.com/gauravk908567/gauravk908567/blob/main/GitHub_Banner.jpg)
 
 # Hello folks!👋
-I am Game Developer with experience of working in Unity.I have knowledge of Unity C# and C++ along with tools like Adobe photoshop and Illustrator. I also have basic understanding of 3d Maya, Blender and Unreal Engine.
+I am Game Developer with experience of working in Unity. I have knowledge of Unity C# and C++ along with tools like Adobe Photoshop and Illustrator with basic understanding of 3D Maya, Blender and Unreal Engine.
 
 ## 🔧 Langueages & Tools
 <p align='left'>
