@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hello folks!👋
 I am Game Developer with experience of working in Unity. I have knowledge of Unity C# and C++ along with tools like Adobe Photoshop and Illustrator with basic understanding of 3D Maya, Blender and Unreal Engine.
 
-## 🔧 Langueages & Tools
+## 🔧 Languages & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="80" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' alt="C++" width="60" height="40">
