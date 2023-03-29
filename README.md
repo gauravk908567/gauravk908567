@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Header](https://github.com/gauravk908567/gauravk908567/blob/main/GitHub_Banner.jpg)
 
 # Hello folks!👋
-With a creative and optimistic character and an immense zeal to learn and improve, I have been withholding 2 years of experience working in Unity. My experience includes working on personal projects and as a game tester along with a few responsibilities that comes under Growth Team for 3 months in GetMega. I know Unity's C# and basic C++. I also have basic knowledge of and experience working in Unreal Engine, Adobe Photoshop, and Adobe Illustrator. I am good at communicating my ideas and brainstorming to make them feasible if they aren't. I am always open to suggestions and strive to learn new technologies.
+AS AN EXPERIENCED AND PASSIONATE TECHNICAL GAME DESIGNER, I POSSESS A KEEN EYE FOR DETAIL AND A DRIVE TO CREATE IMMERSIVE EXPERIENCES THAT TAKE PLAYERS TO THE LAND OF MAKE-BELIEVE. WITH 2 YEARS OF EXPERIENCE IN UNITY AND A COMMITMENT TO STAYING CURRENT WITH NEW TECHNOLOGIES, I AM READY TO TAKE ON NEW CHALLENGES AND CREATE SOMETHING MAGNIFICENT.
 ## 🔧 Languages & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="80" height="40">
