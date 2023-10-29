@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Header](https://github.com/gauravk908567/gauravk908567/blob/main/GitHub_Banner.jpg)
 
 # Hello folks!👋
-AS AN EXPERIENCED AND PASSIONATE TECHNICAL GAME DESIGNER, I POSSESS A KEEN EYE FOR DETAIL AND A DRIVE TO CREATE IMMERSIVE EXPERIENCES THAT TAKE PLAYERS TO THE LAND OF MAKE-BELIEVE. WITH 3 YEARS OF EXPERIENCE IN UNITY AND A COMMITMENT TO STAYING CURRENT WITH NEW TECHNOLOGIES, I AM READY TO TAKE ON NEW CHALLENGES AND CREATE SOMETHING MAGNIFICENT.
+Technical Project Manager and Game Designer with a passion for crafting immersive user experiences. Adept at project management, cross-team collaboration and leading and managing teams to deliver high-value products. I am also proficient in Unity, C#, Jira, and Azure DevOps
 ## 🔧 Languages & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="80" height="40">
