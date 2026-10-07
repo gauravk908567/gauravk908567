@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/stars/vishakha-48.svg" width="48" height="48" alt=""></p>
+<p align="center"><img src="assets/stars/pushya-48.svg" width="48" height="48" alt=""></p>
 
 <p align="center">
   <a href="https://gauravk908567.github.io/?utm_source=github&utm_medium=profile"><img src="assets/banner.svg" width="100%" alt="Gaurav Kumar, Game Producer. The memories that stay are made in the games we play."></a>
